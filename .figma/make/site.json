@@ -1,0 +1,10 @@
+{
+  "description": "This mobile-first e-commerce landing page showcases a premium health and fitness brand, offering a seamless shopping experience with engaging visuals and easy navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
